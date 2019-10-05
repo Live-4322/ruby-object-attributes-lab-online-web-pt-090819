@@ -4,15 +4,18 @@ class Dog
 end
   def name
     @name
+ end
 end
+
+class Dog
   def breed =(breed)
     @breed = breeed 
 end
   def breed
     @breed
+    
+  end
 end
-
-class Dog
   
 fido = Dog.new 
 fido.name 
