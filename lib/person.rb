@@ -17,9 +17,6 @@ end
   end
 end
   
-fido = Dog.new 
-fido.name 
-
-snoopy = Dog.new
-snoopy.breed = "Beagle"
-snoopy.breed
+ beyonce = Person.new 
+ beyonce.name 
+ 
